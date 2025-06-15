@@ -1,0 +1,12 @@
+TG - @shootmamont
+DS - 9usdt
+VERSION - Free v 1.0
+SOON WILL BE UPDATED
+IMPORTS: [ PIP INSTALLS ] 
+import os
+import time
+import urllib.parse
+import requests
+import sqlite3
+import socket
+from concurrent.futures import ThreadPoolExecutor

@@ -1,0 +1,27 @@
+Line 86 enter an API Key Of Discord BOT 
+Not webhook!
+Tutorial
+1. Go to the Discord Developer Portal
+Link: https://discord.com/developers/applications
+
+2. Create a New Application
+Click "New Application".
+
+Give it a name (e.g., MyBot) and click "Create".
+
+3. Create a Bot
+In the left sidebar, go to "Bot".
+
+Click "Add Bot" → "Yes, do it!"
+
+4. Copy the Bot Token (API Key)
+Under the "Bot" section:
+
+Click "Reset Token" (if no token yet).
+
+Then click "Copy".
+
+Important: This token is the API key — keep it secret.
+Anyone with this token can control your bot.
+
+
